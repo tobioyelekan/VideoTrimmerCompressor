@@ -1,7 +1,7 @@
 # VideoTrimmerCompressor
 After facing the issue of duplicate class error that comes up when using 
 <a href="https://github.com/Tourenathan-G5organisation/SiliCompressor">SiliCompressor</a> and 
-<a href="https://github.com/AndroidDeveloperLB/VideoTrimmer">Video Trimmer</a>
+<a href="https://github.com/AndroidDeveloperLB/VideoTrimmer">AndroidDeveloperLB/VideoTrimmer</a>
 in your app, I decided to apply a known solution which combines both libraries together and use just one of 
 the conflicting dependency. See <a href="https://stackoverflow.com/a/54367038/8900747">this</a>
 for more details about the solution.
