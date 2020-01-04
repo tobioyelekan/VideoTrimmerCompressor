@@ -9,3 +9,9 @@ for more details about the solution.
 <b>Please not that this library does not in anyway interfere/affect the functionality or primary purpose of
 SiliCompressor or VideoTrimmer, 
 this library is to help other developers that encounters the same issue, and save them some time!</b>
+
+## setup
+
+Remove all existing dependency of silicompressor and videotrimmer library and add this dependency
+```
+implementation 'com.github.tobioyelekan:VideoTrimmerCompressor:1.0.0
