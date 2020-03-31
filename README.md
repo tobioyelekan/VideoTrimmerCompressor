@@ -6,7 +6,7 @@ in your app, I decided to apply a known solution which combines both libraries t
 the conflicting dependency. See <a href="https://stackoverflow.com/a/54367038/8900747">this</a>
 for more details about the solution.
 
-<b>Please not that this library does not in anyway interfere/affect the functionality or primary purpose of
+<b>Please note that this library does not in anyway interfere/affect the functionality or primary purpose of
 SiliCompressor or VideoTrimmer, 
 this library is to help other developers that encounters the same issue, and save them some time!</b>
 
